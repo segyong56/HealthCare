@@ -2,7 +2,6 @@
 
 <img src="https://user-images.githubusercontent.com/80687195/178111352-3e2e9869-4321-48be-80a9-9d5f17c6cf15.png" width="600" height="400" /><img src="https://user-images.githubusercontent.com/80687195/178111495-0e4d609b-a930-4540-a3d4-d975207a0492.png" width="400" height="400" />
 
-### 척수손상
 ### 원인
  외상성 척수손상　:　자동차사고, 낙상, 오토바이 사고 등
 - 비외상성 척수손상 : 척추협착증, 종양, 허혈, 감염, 척수염 등
